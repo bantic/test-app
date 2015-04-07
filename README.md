@@ -16,3 +16,7 @@ directory somewhere other than in the project's root.
 and `npm link` it
   * ensure your `ember` command-line tool is the one linked from the repo on the previous step
   * `ember serve`
+
+
+These are the changes that were made to package.json to get this to work:
+https://github.com/bantic/test-app/compare/ad175b3cae5a49d4231caab787000e509da045b4...89d3f6cecb1597ca9fae5e137c8ef549b82d6382
