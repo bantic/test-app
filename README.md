@@ -22,4 +22,4 @@ and `npm link` it
 
 
 These are the changes that were made to package.json to get this to work:
-https://github.com/bantic/test-app/compare/ad175b3cae5a49d4231caab787000e509da045b4...89d3f6cecb1597ca9fae5e137c8ef549b82d6382
+https://github.com/bantic/test-app/compare/ad175b3cae5a49d4231caab787000e509da045b4...c02b673e367e8b4a20c596c3d9cbb8b8a5c3a94d
