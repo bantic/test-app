@@ -5,7 +5,7 @@ directory somewhere other than in the project's root.
 
 ## Installation
 
-  * clone this
+  * `git clone https://github.com/bantic/test-app.git`
   * `cd test-app`
   * `npm install`
   * `mv node_modules ../some/other/directory`
@@ -19,3 +19,7 @@ node_modules, wherever they are)
 and `npm link` it
   * (back in test-app) `npm link ember-cli`
   * `ember serve`
+
+
+These are the changes that were made to package.json to get this to work:
+https://github.com/bantic/test-app/compare/ad175b3cae5a49d4231caab787000e509da045b4...89d3f6cecb1597ca9fae5e137c8ef549b82d6382
