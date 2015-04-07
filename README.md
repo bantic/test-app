@@ -5,7 +5,7 @@ directory somewhere other than in the project's root.
 
 ## Installation
 
-  * clone this
+  * `git clone https://github.com/bantic/test-app.git`
   * `cd test-app`
   * `npm install`
   * `mv node_modules ../some/other/directory`
